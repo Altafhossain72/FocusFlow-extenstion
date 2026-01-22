@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: 2025-01-22
+Last updated: 22-01-2026
 
 FocusFlow is a productivity-focused browser extension designed to enhance user concentration through configurable timers, intelligent break scheduling, and selective content filtering. This document outlines our data handling practices and technical implementation.
 
